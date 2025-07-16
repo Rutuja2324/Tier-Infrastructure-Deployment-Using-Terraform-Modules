@@ -25,12 +25,15 @@ Database Tier (Private Subnet):
 
 Amazon RDS (MySQL/PostgreSQL) instance
 Configured with security groups and private subnet group
+
 🛠️ Tools & Technologies
 Terraform v1.x
 AWS EC2, RDS, VPC, NAT Gateway, IGW
 Ansible or Terraform provisioners
 Git & GitHub
+
 🚀 Deployment Steps
+
 Step 1: Clone the Repository
 git clone https://github.com/Rutuja2324/Tier-Infrastructure-Deployment-Using-Terraform-Modules.git
 cd Tier-Infrastructure-Deployment-Using-Terraform-Modules
