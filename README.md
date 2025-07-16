@@ -4,6 +4,7 @@ Author
 Rutuja Kakuste
 📌 Objective
 Design and deploy a complete 3-tier web application architecture on AWS using Terraform modules. The infrastructure is modular, scalable, and built using Infrastructure as Code (IaC) best practices.
+
 🗂️ Project Structure
 project-3-terraform-3tier/ │ ├── modules/ │ ├── vpc/ │ ├── web-tier/ │ ├── app-tier/ │ └── database/ │ ├── main.tf ├── variables.tf ├── outputs.tf ├── terraform.tfvars └── README.md
 🏗️ Architecture
